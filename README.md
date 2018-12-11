@@ -3,4 +3,4 @@ This project has been supported in part or in full by Federal funds through the 
 
 The Community Health Information Station is a tool to promote access to quality health information in the community. Users can browse through a variety of reviewed websites and applications that serve to improve patient and families’ health outcomes.
 
-This project was created, designed and developed by Gibson D. Lewis Library, University of North Texas Health Science Center and may be reused in part or in full provided the NIH grant statement at the bottom of index.html and the statement under the "About" heading on about.html are included.
+This project was created, designed and developed by Gibson D. Lewis Library, University of North Texas Health Science Center and may be reused in part or in full provided the NIH grant statement at the bottom of index.html and the statement under the "About" heading on about.html are included in any derivative works.
